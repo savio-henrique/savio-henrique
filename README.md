@@ -32,5 +32,5 @@
 - [ ] :moneybag: Gain sufficient money to live forever!! :sunglasses:
 
 # Contact me! :calling:
-[![Linkedin]([https://icons8.com/icon/8808/linkedin](https://img.icons8.com/ios-filled/50/null/linkedin.png))](https://www.linkedin.com/in/s%C3%A1vio-henrique-chaves-mendes/)
+[![Linkedin](https://img.icons8.com/ios-filled/50/null/linkedin.png)](https://www.linkedin.com/in/s%C3%A1vio-henrique-chaves-mendes/)
 [![Instagram](https://img.icons8.com/ios-filled/50/null/instagram-new--v1.png)](https://www.instagram.com/savioh.c/)
