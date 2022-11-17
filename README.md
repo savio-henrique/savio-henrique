@@ -1,16 +1,36 @@
-### Hi there 👋
+# :black_large_square::black_large_square::black_large_square:[:twisted_rightwards_arrows:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR?si=50df71916b784685) [:previous_track_button:](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE?si=e5b584439383421e) [:play_or_pause_button:](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI?si=d82ebdb9efc44a74) [:next_track_button:](https://open.spotify.com/track/1aayZc3JciIs2GhZcSlCrw?si=d7e2b584aa9f415c) :repeat::black_large_square:
+## About me!   ————————•—————
 
-<!--
-**savio-henrique/savio-henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :ocean: Hello! My name's Sávio! :ocean:
+#### :star2: IT Intern at the Mathematics Department of [University of Brasília (UnB)](https://unb.br/) :star2:
+#### :milky_way: Computer Science Student at [University of Brasília (UnB)](https://unb.br/) :milky_way:
 
-Here are some ideas to get you started:
+# Proficiencies and Languages :brain:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Basic Java Experience :coffee:
+* Intermediate Python :snake:
+* Web Development (HTML, CSS , Javascript) :framed_picture:
+* Basic PhP :elephant:
+* Learning LaTex :heavy_check_mark:
+* Bash and Linux Experience :small_blue_diamond:
+* Docker Compose and Engine :whale:
+* Basic C Experience :keyboard:
+
+### Other Proficiencies :wrench:
+
+* Advanced Photoshop :camera:
+* Ux/UI Design :video_game:
+* Figma :flower_playing_cards:
+* Advanced Adobe :movie_camera:
+
+# Goals :white_check_mark:
+
+- [x] :seedling: Study and get better at programming and development
+- [x] :green_book: Learn new technologies and adapt to the developing environment
+- [x] :desktop_computer: Better myself as an Technician and Programmer
+- [x] :brain: Be open to all kinds of knowledge from all kinds of people
+- [ ] :moneybag: Gain sufficient money to live forever!! :sunglasses:
+
+# Contact me! :calling:
+[![Linkedin](https://icons8.com/icon/8808/linkedin)](https://www.linkedin.com/in/s%C3%A1vio-henrique-chaves-mendes/)
+[![Instagram](https://icons8.com/icon/32309/instagram)](https://www.instagram.com/savioh.c/)
