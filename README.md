@@ -34,3 +34,4 @@
 # Contact me! :calling:
 [![Linkedin](https://img.icons8.com/ios-filled/50/null/linkedin.png)](https://www.linkedin.com/in/s%C3%A1vio-henrique-chaves-mendes/)
 [![Instagram](https://img.icons8.com/ios-filled/50/null/instagram-new--v1.png)](https://www.instagram.com/savioh.c/)
+[![Steam](https://img.icons8.com/metro/50/null/steam.png)](https://steamcommunity.com/id/Hakyoku)
