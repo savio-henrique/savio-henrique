@@ -1,4 +1,4 @@
-# :black_large_square::black_large_square::black_large_square::twisted_rightwards_arrows:previous_track_button: [:play_or_pause_button:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR):next_track_button: :repeat::black_large_square::black_large_square::black_large_square:
+# :black_large_square::black_large_square::black_large_square::twisted_rightwards_arrows::previous_track_button: [:play_or_pause_button:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR) :next_track_button: :repeat::black_large_square::black_large_square::black_large_square:
 ## About me!   ————————•—————
 
 #### :ocean: Hello! My name's Sávio! :ocean:
