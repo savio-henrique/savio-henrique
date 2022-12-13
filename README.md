@@ -1,4 +1,4 @@
-# :black_large_square::black_large_square::black_large_square:[:twisted_rightwards_arrows:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR?si=50df71916b784685) [:previous_track_button:](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE?si=e5b584439383421e) [:play_or_pause_button:](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI?si=d82ebdb9efc44a74) [:next_track_button:](https://open.spotify.com/track/1aayZc3JciIs2GhZcSlCrw?si=d7e2b584aa9f415c) :repeat::black_large_square:
+# :black_large_square::black_large_square::black_large_square::twisted_rightwards_arrows:previous_track_button: [:play_or_pause_button:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR):next_track_button: :repeat::black_large_square::black_large_square::black_large_square:
 ## About me!   ————————•—————
 
 #### :ocean: Hello! My name's Sávio! :ocean:
