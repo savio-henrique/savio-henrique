@@ -1,37 +1,37 @@
-# :black_large_square::black_large_square::black_large_square::twisted_rightwards_arrows::previous_track_button: [:play_or_pause_button:](https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR) :next_track_button: :repeat::black_large_square::black_large_square::black_large_square:
-## About me!   ————————•—————
+<h1 align=center>:crescent_moon: Prazer! Eu sou o Sávio! :crescent_moon:</h1>
 
-#### :ocean: Hello! My name's Sávio! :ocean:
-#### :star2: IT Intern at the Mathematics Department of [University of Brasília (UnB)](https://unb.br/) :star2:
-#### :milky_way: Computer Science Student at [University of Brasília (UnB)](https://unb.br/) :milky_way:
+<p align="center"><b>:ocean: Atualmente, sou estagiário e estudante da área de Computação na <br><a href="https://unb.br">Universidade de Brasília(UnB)</a>.</b></p>
+<p align="center"><img src="https://media.giphy.com/media/nM8UiF6Xr4rRGmpPF0/giphy.gif" style="height:200px"></p>
+<p align="center">:link:
+<a href="https://open.spotify.com/playlist/6TtehsM9pKWks2PEh6PXiR"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="height:20px"></a>
+<a href="https://github.com/savio-henrique"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="height:20px"></a>
+<a href="https://codepen.io/SavioCMendes"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="height:20px"></a>
+<a href="https://linkedin.com/in/savio-hc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:20px"></a>
+<a href="https://www.instagram.com/savioh.c/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height:20px"></a>
+<a href="https://steamcommunity.com/id/Hakyoku"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" style="height:20px"></a>
+</p>
 
-# Proficiencies and Languages :brain:
+<p align="center"><b>Sempre busquei me aprimorar e me aprofundar no ramo da tecnologia, buscando sempre saber sobre novas tecnologias.<br><br>Atualmente, cursando Licenciatura em Computação na <a href="https://unb.br">UnB</a> e Análise e Desenvolvimento de Sistemas na Estácio de Sá, sempre tento me envolver no ramo tecnológico, em quaisquer áreas, desde Design Gráfico até Desenvolvimento de Software.</b></p>
 
-* Basic Java Experience :coffee:
-* Intermediate Python :snake:
-* Web Development (HTML, CSS , Javascript) :framed_picture:
-* Basic PhP :elephant:
-* Learning LaTex :heavy_check_mark:
-* Bash and Linux Experience :small_blue_diamond:
-* Docker Compose and Engine :whale:
-* Basic C Experience :keyboard:
+<h2 align="center">:desktop_computer: Habilidades e Linguagens :desktop_computer:</h2>
 
-### Other Proficiencies :wrench:
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:25px">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="height:25px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height:25px">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height:25px">
+</p>
 
-* Advanced Photoshop :camera:
-* Ux/UI Design :video_game:
-* Figma :flower_playing_cards:
-* Advanced Adobe :movie_camera:
+<h3 align="center">:wrench: Outras Habilidades :wrench:</h3>
 
-# Goals :white_check_mark:
-
-- [x] :seedling: Study and get better at programming and development
-- [x] :green_book: Learn new technologies and adapt to the developing environment
-- [x] :desktop_computer: Better myself as an Technician and Programmer
-- [x] :brain: Be open to all kinds of knowledge from all kinds of people
-- [ ] :moneybag: Gain sufficient money to live forever!! :sunglasses:
-
-# Contact me! :calling:
-[![Linkedin](https://img.icons8.com/ios-filled/50/null/linkedin.png)](https://www.linkedin.com/in/s%C3%A1vio-henrique-chaves-mendes/)
-[![Instagram](https://img.icons8.com/ios-filled/50/null/instagram-new--v1.png)](https://www.instagram.com/savioh.c/)
-[![Steam](https://img.icons8.com/metro/50/null/steam.png)](https://steamcommunity.com/id/Hakyoku)
+<p align="center">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="height:25px">
+<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" style="height:25px">
+</p>
