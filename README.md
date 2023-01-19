@@ -11,7 +11,12 @@
 <a href="https://steamcommunity.com/id/Hakyoku"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" style="height:20px"></a>
 </p>
 
-<p align="center"><b>Sempre busquei me aprimorar e me aprofundar no ramo da tecnologia, buscando sempre saber sobre novas tecnologias.<br><br>Atualmente, cursando Licenciatura em Computação na <a href="https://unb.br">UnB</a> e Análise e Desenvolvimento de Sistemas na Estácio de Sá, sempre tento me envolver no ramo tecnológico, em quaisquer áreas, desde Design Gráfico até Desenvolvimento de Software.</b></p>
+<p align="center"><b>Sempre busquei me aprimorar e me aprofundar no ramo da tecnologia,<br>
+buscando sempre saber sobre novas tecnologias.<br>
+<br>Atualmente, cursando Licenciatura em Computação na <a href="https://unb.br">UnB</a><br>
+e Análise e Desenvolvimento de Sistemas na Estácio de Sá,<br>
+sempre tento me envolver no ramo tecnológico, em quaisquer áreas,<br>
+desde Design Gráfico até Desenvolvimento de Software.</b></p>
 
 <h2 align="center">:desktop_computer: Habilidades e Linguagens :desktop_computer:</h2>
 
@@ -21,7 +26,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="height:25px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height:25px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height:25px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height:25px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height:25px"><br>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="height:25px">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="height:25px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="height:25px">
