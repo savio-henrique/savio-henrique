@@ -42,5 +42,5 @@ desde Design Gráfico até Desenvolvimento de Software.</b></p>
 </p>
 
 <p align="center">
-<a href="https://github.com/savio-henrique/jobs">:pencil:Jobs:pencil:</a>
+<b><a href="https://github.com/savio-henrique/jobs">:pencil:Jobs:pencil:</a></b>
 </p>
