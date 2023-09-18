@@ -30,10 +30,11 @@ desde Design Gráfico até Desenvolvimento de Software.</b></p>
 <img id="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="min-height:25px">
 <img id="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="min-height:25px">
 <img id="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="min-height:25px">
-<img id="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="min-height:25px">
+<img id="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="min-height:25px">
 <img id="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="min-height:25px">
 <img id="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="min-height:25px">
 <img id="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="min-height:25px">
+<img id="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="min-height:25px">
 </p>
 
 <h3 align="center">:wrench: Ferramentas :wrench:</h3>
@@ -50,6 +51,4 @@ desde Design Gráfico até Desenvolvimento de Software.</b></p>
 <img id="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" style="min-height:25px">
 </p>
 
-<p align="center">
-<b><a href="https://github.com/savio-henrique/jobs">:pencil:Jobs:pencil:</a></b>
 </p>
