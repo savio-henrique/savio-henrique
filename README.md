@@ -28,25 +28,23 @@
         </td>
     </tr>
 </table>
-
-<details>
-    <summary><b>:keyboard: Technologies</b></summary>
-    <sub>
-        php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | haskell | 
-    </sub>
-</details>
-<details>
-    <summary><b>:seedling: Learning</b></summary>
-    <sub>
-        nix | neovim | laravel | nextjs | lua |
-    </sub>
-</details>
-<details>
-    <summary><b>:briefcase: Tools</b></summary>
-    <sub>
-        linux | bash | docker | nix | nixos | git | notion | obsidian | gsuite | figma |
-    </sub>
-</details>
+<b>:keyboard: Technologies</b>
+<br/>
+<sub>
+    php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | haskell | 
+</sub>
+<br/>
+<b>:seedling: Learning</b>
+<br/>
+<sub>
+    nix | neovim | laravel | nextjs | lua |
+</sub>
+<br/>
+<b>:briefcase: Tools</b>
+<br/>
+<sub>
+    linux | bash | docker | nix | nixos | git | notion | obsidian | gsuite | figma |
+</sub>
 <hr>
 
 > *"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."* - ***Socrates***
