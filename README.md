@@ -1,27 +1,34 @@
 ## Hi! I'm Hokusai :ocean:
 
-<div style="display:flex;">
-    <div align="left">
-        <em>
-            I'm a backend software developer, coffee addict and cat lover.*:coffee:
-            <br/>
-            *I love to learn about new tech and new stuff.*:sparkles:
-        </em>
-    </div>
-    <div align="right" style="margin-left: 40px;">
-        <div align="left">
-            <sub>
-                :gear: my config
+<table>
+    <tbody>
+        <tr align="left">
+            <em>
+                I'm a backend software developer, coffee addict and cat lover.*:coffee:
                 <br/>
-                :link: website/portfolio (wip)
-                <br/>
-                :clipboard: blog (wip)
-                <br/>
-                :envelope_with_arrow: contact me
-            </sub> 
-        </div>
-    </div>
-</div>
+                *I love to learn about new tech and new stuff.*:sparkles:
+            </em>
+        </tr>
+        <tr align="right">
+            <div align="left" style="margin-left: 40px;">
+                <sub>
+                    :gear: my config
+                    <br/>
+                    :link: website/portfolio (wip)
+                    <br/>
+                    :clipboard: blog (wip)
+                    <br/>
+                    :envelope_with_arrow: contact me
+                </sub> 
+            </div>
+        </tr>
+    </tbody>
+</table>
+
+|------|------|
+| *I'm a backend software developer, coffee addict and cat lover.*:coffee: | :gear: my config |
+| *I love to learn about new tech and new stuff.*:sparkles: | :link: website/portfolio (wip) |
+
 <details>
     <summary><b>:keyboard: Technologies</b></summary>
     <sub>
