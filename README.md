@@ -32,24 +32,19 @@
 <details>
     <summary><b>:keyboard: Technologies</b></summary>
     <sub>
-        php | javascript | typescript | python | nodejs |
-        <br/>
-        express | tailwindcss | mysql | haskell | 
+        php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | haskell | 
     </sub>
 </details>
 <details>
     <summary><b>:seedling: Learning</b></summary>
     <sub>
         nix | neovim | laravel | nextjs | lua |
-        <br/>
     </sub>
 </details>
 <details>
     <summary><b>:briefcase: Tools</b></summary>
     <sub>
-        linux | bash | docker | nix | nixos | git | 
-        <br/>
-        notion | obsidian | gsuite | figma |
+        linux | bash | docker | nix | nixos | git | notion | obsidian | gsuite | figma |
     </sub>
 </details>
 <hr>
