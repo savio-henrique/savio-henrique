@@ -4,10 +4,14 @@
     <tr>
         <td width=1920>
             <em>
-            I'm a backend software developer, coffee addict and cat lover. :coffee:
+                I'm a backend software developer, coffee addict and cat lover.
+            </em> 
+            :coffee:
             <br/>
-            I love to learn about new tech and new stuff. :sparkles:
-            </em>
+            <em>
+                I love to learn about new tech and new stuff.
+            </em> 
+            :sparkles:
         </td>
         <td width=500>
             <div align="left">
