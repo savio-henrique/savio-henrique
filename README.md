@@ -1,8 +1,27 @@
 ## Hi! I'm Hokusai :ocean:
 
-*I'm a backend software developer, coffee addict and cat lover.*:coffee:
-<br/>
-*I love to learn about new tech and new stuff.*:sparkles:
+<div style="display:flex;">
+    <div align="left">
+        <em>
+            I'm a backend software developer, coffee addict and cat lover.*:coffee:
+            <br/>
+            *I love to learn about new tech and new stuff.*:sparkles:
+        </em>
+    </div>
+    <div align="right" style="margin-left: 40px;">
+        <div align="left">
+            <sub>
+                :gear: my config
+                <br/>
+                :link: website/portfolio (wip)
+                <br/>
+                :clipboard: blog (wip)
+                <br/>
+                :envelope_with_arrow: contact me
+            </sub> 
+        </div>
+    </div>
+</div>
 <details>
     <summary><b>:keyboard: Technologies</b></summary>
     <sub>
@@ -26,18 +45,6 @@
         notion | obsidian | gsuite | figma |
     </sub>
 </details>
-
-<div align="right">
-    <sub>
-        :gear: my config
-        <br/>
-        :link: website/portfolio (wip)
-        <br/>
-        :clipboard: blog (wip)
-        <br/>
-        :envelope_with_arrow: contact me
-    </sub> 
-</div>
 <hr>
 
 > *"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."* - ***Socrates***
