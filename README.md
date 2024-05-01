@@ -3,7 +3,6 @@
 *I'm a backend software developer, coffee addict and cat lover.*:coffee:
 <br/>
 *I love to learn about new tech and new stuff.*:sparkles:
-
 <details>
     <summary><b>:keyboard: Technologies</b></summary>
     <sub>
@@ -28,15 +27,17 @@
     </sub>
 </details>
 
-<sub>
-    :gear: my config
-    <br/>
-    :link: website/portfolio (wip)
-    <br/>
-    :clipboard: blog (wip)
-    <br/>
-    :envelope_with_arrow: contact me
-</sub> 
+<div align="right">
+    <sub>
+        :gear: my config
+        <br/>
+        :link: website/portfolio (wip)
+        <br/>
+        :clipboard: blog (wip)
+        <br/>
+        :envelope_with_arrow: contact me
+    </sub> 
+</div>
 <hr>
 
 > *"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."* - ***Socrates***
