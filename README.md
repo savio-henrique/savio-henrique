@@ -22,7 +22,7 @@
                     <br/>
                     :clipboard: blog (wip)
                     <br/>
-                    <a href="https://www.linkedin.com/in/savio-hc">:envelope_with_arrow: contact me</a>
+                    <a href="https://www.linkedin.com/in/savio-hc" style="text-decoration:none" target="_blank">:envelope_with_arrow: contact me</a>
                 </sub> 
             </div>
         </td>
