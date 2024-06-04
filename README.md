@@ -16,13 +16,13 @@
         <td width=500>
             <div align="left">
                 <sub>
-                    :gear: <a href="https://github.com/savio-henrique/nixos-config">my config</a>
+                    <a href="https://github.com/savio-henrique/nixos-config">:gear: my config</a>
                     <br/>
                     :link: website/portfolio (wip)
                     <br/>
                     :clipboard: blog (wip)
                     <br/>
-                    :envelope_with_arrow: contact me
+                    <a href="https://www.linkedin.com/in/savio-hc">:envelope_with_arrow: contact me</a>
                 </sub> 
             </div>
         </td>
