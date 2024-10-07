@@ -1,4 +1,4 @@
-## Hi! I'm Hokusai :ocean:
+## Hi! I'm Sávio (aka Hokusai) :ocean:
 
 <table>
     <tr>
