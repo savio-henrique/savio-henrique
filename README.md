@@ -31,14 +31,14 @@
 <b>:keyboard: Technologies</b>
 <br/>
 <sub>
-    magento 2 | php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | 
+    php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | 
 </sub>
 <br/>
 <br/>
 <b>:seedling: Learning</b>
 <br/>
 <sub>
-    nix | neovim | laravel | nextjs | lua | kotlin | kmp |
+    nix | neovim | laravel | nextjs | lua | kotlin | kmp | react native
 </sub>
 <br/>
 <br/>
