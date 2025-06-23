@@ -1,10 +1,10 @@
-## Hi! I'm Sávio (aka Hokusai) :ocean:
+## Hi! I'm Sávio (aka shx) :ocean:
 
 <table>
     <tr>
         <td width=1920>
             <em>
-                I'm a backend software developer, coffee addict and cat lover.
+                I'm a fullstack software engineer, coffee addict and cat lover.
             </em> 
             :coffee:
             <br/>
@@ -18,7 +18,9 @@
                 <sub>
                     <a href="https://github.com/savio-henrique/nixos-config">:gear: my config</a>
                     <br/>
-                    :link: website/portfolio (wip)
+                    <a href="https://shx-dev.netlify.app/">
+                        :link: website/portfolio 
+                    </a>
                     <br/>
                     :clipboard: blog (wip)
                     <br/>
@@ -28,24 +30,31 @@
         </td>
     </tr>
 </table>
-<b>:keyboard: Technologies</b>
+<b>:keyboard: Languages & Toolset</b>
 <br/>
 <sub>
-    php | javascript | typescript | python | nodejs | express | tailwindcss | mysql | 
+    php | javascript | typescript | kotlin | python | html | css | sql | haskell | lua | shell | tailwindcss | SASS |  
+</sub>
+<br/>
+<br/>
+<b>:toolbox: Frameworks & Databases</b>
+<br/>
+<sub>
+   laravel | vue.js | react | react native | expo | kmp | nodejs | express | mysql | mongodb | postgresql | firebase | prisma | symphony | 
 </sub>
 <br/>
 <br/>
 <b>:seedling: Learning</b>
 <br/>
 <sub>
-    nix | neovim | laravel | nextjs | lua | kotlin | kmp | react native
+    nix | neovim | nextjs | github actions | kubernetes | homelabbing | aws | azure | magalucloud |
 </sub>
 <br/>
 <br/>
 <b>:briefcase: Tools</b>
 <br/>
 <sub>
-    linux | bash | docker | nix | nixos | git | notion | obsidian | gsuite | figma |
+    linux | bash | docker | nix | nixos | git | notion | obsidian | gsuite | figma | 
 </sub>
 <hr>
 
