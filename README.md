@@ -18,11 +18,13 @@
                 <sub>
                     <a href="https://github.com/savio-henrique/nixos-config">:gear: my config</a>
                     <br/>
-                    <a href="https://shx-dev.netlify.app/">
+                    <a href="https://blog.shxhomelab.work/">
                         :link: website/portfolio 
                     </a>
                     <br/>
-                    :clipboard: blog (wip)
+                    <a href="https://blog.shxhomelab.work/posts/"> 
+                        :clipboard: blog 
+                    </a>
                     <br/>
                     <a href="https://www.linkedin.com/in/savio-hc">:envelope_with_arrow: contact me</a>
                 </sub> 
